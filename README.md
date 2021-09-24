@@ -1,2 +1,1 @@
 # Portscanner.py
-netcat caseiro
